@@ -65,7 +65,7 @@ KripAI Tech (Kripai.com)
 
 📩 Reach out, engage, and let’s innovate together!
 
-### Registration Form For Non-Scholarship :
+### Internship Program For Non-Scholarship Candidate :
 
 [Apply Now](https://support.mahimamultipurpose.com.np/recruitment/recruitment_portal)
 
