@@ -66,8 +66,8 @@ Mahima Multipurpose Initiatives (mahimamultipurpose.com.np)
 
 ### Registration Form For Non-Scholarship - Apply Here:
 
-https://forms.gle/meEnMfyGTwXAt16HA
-
+[https://forms.gle/meEnMfyGTwXAt16HA
+](https://support.mahimamultipurpose.com.np/recruitment/recruitment_portal)
 
 ### Project Maintainers
 
