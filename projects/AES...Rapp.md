@@ -1,7 +1,7 @@
 
 Project Name
 -----------
-Advanced Eat Sleep Pitch/Design/Code/Sales Repeat
+Advanced Eat Sleep Pitch/Mindset/Code/Sales Repeat
 
 Who We Are
 -----------
@@ -13,10 +13,24 @@ Objective
 
 The objective of this workshop is to equip participants with advanced skills and strategies in the areas of pitching, design, coding, and sales. By the end of the workshop, attendees will have gained practical insights, honed their skills, and developed a systematic approach to iterate through the processes of pitching, designing, coding, and selling products or services.
 
+Syllabus
+---------
+1) 3d Design & Animation
+2) Machine Coding
+3) Astronomy
+4) Stand up comedy
+5) Creative writing or screenwriting
+6) Applied science ( First Princple)
+7) Infectious disease throughout the history
+8) Maths and Science throughout history
+9) Marketing
+
 Duration
 -----------
 
 The workshop will span over two days, with each day consisting of interactive sessions, hands-on activities, and group exercises.
+
+
 
 Day 1: Pitching and Design
 ---
