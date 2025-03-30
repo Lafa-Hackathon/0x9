@@ -1,6 +1,6 @@
 Project Name
 =======
-Lafa0x9 Shop - A Store run with the help of Lafa0x9 communities 
+0x9 Shop - A Store run with the help of Lafa0x9 communities 
 
 Live URL: 
 ------------
