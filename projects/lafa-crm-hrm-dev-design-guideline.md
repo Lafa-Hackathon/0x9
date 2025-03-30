@@ -8,7 +8,7 @@ coming soon
 
 Development URL:
 ------------
-https://crm-hrm-dev.ssomai.com.np/
+[https://support.mahimamultipurpose.com.np/](https://support.mahimamultipurpose.com.np/)
 
 UI/UX Development of Lafa Design Guideline in Figma URL:
 ------------
@@ -20,7 +20,7 @@ coming soon
 
 Lafa Design Guideline - Git Repository:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/lafa-design-guideline" target="_blank">Lafa-design-guideline</a> 
+<a href = "https://github.com/Lafa-Hackathon/lafa-design-guideline" target="_blank">Lafa-design-guideline</a> 
 
 
 Technology Used:
