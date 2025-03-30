@@ -1,6 +1,6 @@
 Project Name
 ------------
-Lafa CRM, HRM, Dev & Design Guideline 
+CRM, HRM, Dev & Design Guideline 
 
 Live URL: 
 ------------
