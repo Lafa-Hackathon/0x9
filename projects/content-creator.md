@@ -1,12 +1,14 @@
 Project Name
 ---------------
-SSOMAI - Content Creator
+SSOMAI & SKS - Content Creator
 
 Social Profiles
 ---------------
 
 [https://www.youtube.com/channel/UCoVzohJrGrdSx4LMA5ueeZQ
 ](https://www.youtube.com/channel/UCoVzohJrGrdSx4LMA5ueeZQ)
+
+https://www.youtube.com/@sks-6666
 
 [https://www.twitch.tv/mrsomai
 ](https://www.twitch.tv/mrsomai)
@@ -16,9 +18,6 @@ Social Profiles
 
 [https://www.patreon.com/MrSomai
 ](https://www.patreon.com/MrSomai)
-
-[https://www.reddit.com/user/Better-Package2745
-](https://www.reddit.com/user/Better-Package2745)
 
 [Tweets by mrsomai369
 ](https://twitter.com/mrsomai369?ref_src=twsrc%5Etfw)
