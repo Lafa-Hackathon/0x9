@@ -18,5 +18,4 @@ https://drive.google.com/drive/folders/18plFryGWLJR77h8cwnfQkipJP27yzncp?usp=sha
 
 Partnership Offer - Fill this form for joining our journey with us
 ---
-https://forms.gle/hNftuWpogdQxaLN58
-
+https://support.mahimamultipurpose.com.np/recruitment/recruitment_portal/job_detail/5
