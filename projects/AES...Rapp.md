@@ -1,7 +1,7 @@
 
 Project Name
 -----------
-Advanced Eat Sleep Pitch/Mindset/Code/Sales Repeat
+Advanced Eat Sleep Pitch/Mindset/Develop/Sales Repeat
 
 Who We Are
 -----------
@@ -52,16 +52,16 @@ Prototyping tools and techniques
 Design thinking methodologies
 Hands-on Activity: Participants will engage in a design challenge, applying the principles discussed. They will create prototypes and iterate based on feedback from peers and facilitators.
 
-Day 2: Coding and Sales
+Day 2: Develop and Sales
 ---
 
 Morning Session (2 hours):
 ---
-Advanced Coding Concepts:
+Advanced Developing Concepts:
 Software architecture and design patterns
 Version control systems (e.g., Git)
 Testing and debugging strategies
-Coding Workshop: Participants will work on coding challenges, focusing on implementing best practices and collaborating effectively within teams.
+Developing Workshop: Participants will work on coding challenges, focusing on implementing best practices and collaborating effectively within teams.
 
 Afternoon Session (2 hours):
 ---
