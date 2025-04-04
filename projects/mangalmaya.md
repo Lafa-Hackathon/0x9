@@ -27,6 +27,11 @@ Technology Used :
 ------------
 Reactjs, React Native, MySQL
 
+Reference Startup but we built our system on top this system:
+------------
+https://www.thehosteller.com/
+https://www.zostel.com/
+
 Who Are We 
 ------------
 "Mangalmaya - Travel World" could be envisioned as a holistic travel app that caters to the diverse needs of travelers, offering convenience, personalization, and peace of mind throughout their journey.
