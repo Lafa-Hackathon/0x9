@@ -1,6 +1,6 @@
 Project Name
 ---------------
-SSOMAI & SKS - Content Creator
+SSOMAI, 0x9 & SKS - Content Creator
 
 Social Profiles
 ---------------
@@ -9,6 +9,8 @@ Social Profiles
 ](https://www.youtube.com/channel/UCoVzohJrGrdSx4LMA5ueeZQ)
 
 https://www.youtube.com/@sks-6666
+
+https://www.youtube.com/@lafa0x9
 
 [https://www.twitch.tv/mrsomai
 ](https://www.twitch.tv/mrsomai)
