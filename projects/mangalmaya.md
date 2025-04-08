@@ -172,3 +172,130 @@ What will you learn
 2. Database Design & Development
 3. Security Design & Development
 4. Personal Development & Well-Design Mindset
+5. Team co-ordination & collaboration
+   
+
+----
+
+## **Summarized Problems and Solutions**
+
+| SN | Problems                    | Solutions                                                                                   |
+|----|-----------------------------|---------------------------------------------------------------------------------------------|
+| 1  | Fragmented Booking Process  | Provide multiple booking services (flights, accommodations, transportation) into a single platform for simplified booking along with payment. |
+| 2  | Lack of Personalization     | Provide personal recommendations for destinations, activities, and accommodations.          |
+| 3  | Difficulty Staying Informed | Provide real-time updates and alerts on travel itinerary changes (flights, gates, weather). |
+| 4  | Limited Connectivity        | Offer offline accessibility for maps, directions, and booking confirmations, hotline contacts. |
+| 5  | Lack of Local Insight       | Integrate local services and user-generated content (reviews, ratings, recommendations).    |
+| 6  | Safety Concerns             | Provide emergency assistance, travel advisories, and safety tips features.                  |
+
+---
+
+# Human Resources
+For this project, we are looking for following human resources:
+
+
+| SN  | Role                                      | Quantity | Status        |
+|-----|-------------------------------------------|----------|---------------|
+| 1   | **Scrum Master**                          | 1        | fulfilled ✔️        |
+| 2   | **UI/UX Designer**                        | 1        | hiring        |
+| 3   | **Frontend Developer (React/Next.js)**    | 1        | hiring        |
+| 4   | **Backend Developer (Node.js)**           | 1        | hiring        |
+| 5   | **Mobile App Developer (Flutter/React Native)** | 1    | hiring (Next month) |
+
+#### **Roles and Responsibilities**
+
+1. **Scrum Master**
+   
+- Project analysis, understand project (Mangalmaya - Travel World) requirements, challenges and solutions
+- Interaction with project stakholder (CTO, Product Owner), gather freqyuent feedback, and sprint planning
+- Set backlog (features) prioritization with Product Owner or CTO (will be discussed in details)
+- Schedule meetings such as daily stand-up, sprint review, sprint retrospective, with a cross-functional team (developers, and designer) and CTO
+- Ensure the team follows Agile principles
+- Documentation and reporting daily (summarize what you have done today) to CTO
+- Stay updated about project progress and team status (team member is absent or present)
+
+2. **UI/UX Designer**
+   
+- Project analysis, understand project (Mangalmaya - Travel World) requirements,
+- Understand backlogs (features) based on Product Owner (PO) prioritization
+- Design  responsive, user-friendly prototypes (Wireframe, Interactive), and user interafaces for both web and mobile applications
+- Peform usability testing with PO or CTO
+- Collect feeback and improve designs
+- Enhance user experience
+- Research other similar websites and mobile applications’ designs and user experience
+- Documentation and reporting daily (summarize what you have done today) to Scrum Master
+- Make sure you are following  Agile principles
+- Attend every meeting
+- Stay updated about project progress
+- Collaborate with the team
+
+
+3. **Frontend Developer**
+
+- Project analysis, understand project (Mangalmaya - Travel World) requirements,
+- Understand backlogs (features) based on Product Owner (PO) prioritization
+- Convert digital designs into interactive interfaces with responsivness, adaptability, and securely
+- Optimize code base, feature testing (using Jest or similar library), and document each work daily.
+- Integrate RESTful API
+- Cache frequent use data such as user details, booking history in client-site
+- Ensure consistency and smoothness in state management
+- Use latest tools, frameworks, and technologies for project development
+- Documentation and reporting daily (summarize what you have done today) to Scrum Master
+- Stay updated about project progress
+- Attend every meeting
+- Collaborate with the team
+- Make sure you are following  Agile principles
+
+
+4. **Backend Developer**
+
+- Project analysis, understand project (Mangalmaya - Travel World) requirements,
+- Understand backlogs (features) based on Product Owner (PO) prioritization
+- Plan and design database (Firebase, Mongodb or any appropriate database) work flow such as schemas, models
+- Develop scalable, optimize, secure RESTful API for both web and mobile apps
+- Integrate other third party APIs if necessary
+- Integrate developed API to the frontend part if necessary
+- Implement unit testing and integration testing
+- Ensure consistency and smoothness in the code
+- Use latest tools, frameworks, and technologies for project development
+- Optimize code base, performance, and document each work daily.
+- Documentation and reporting daily (summarize what you have done today) to Scrum Master
+- Stay updated about project progress
+- Attend every meeting
+- Collaborate with the team
+- Make sure you are following Agile principles
+
+
+5. **Mobile App Developer**
+   
+- Project analysis, understand project (Mangalmaya - Travel World) requirements,
+- Understand backlogs (features) based on Product Owner (PO) prioritization
+- Develop scalable, secure tablet and mobile applications development for IOS and Android
+- Integrate other third party APIs if necessary
+- Integrate developed API to the frontend part if necessary
+- Sensors integration if necessary
+- Push notifications if necessary
+- Implement unit testing and integration testing
+- Ensure consistency and smoothness in the state management
+- Use latest tools, frameworks, and technologies for project development
+- Optimize code base, performance, and document each work daily.
+- Documentation and reporting daily (summarize what you have done today) to Scrum Master
+- Stay updated about project progress
+- Attend every meeting
+- Collaborate with the team
+- Make sure you are following Agile principles
+
+## Project Outlines
+
+*(Coming soon)*
+
+
+## Team
+
+1. CTO (Sanjiv Shrestha)
+2. CRO 
+3. Scrum Master
+4. UI/UX Designer
+5. Frontend Developer
+6. Backend Developer
+7. Mobile App Developer
