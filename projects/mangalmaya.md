@@ -190,6 +190,17 @@ What will you learn
 
 ---
 
+# Revenue Generation Strategy
+
+1. Commission based model
+- Earn **5–15% commission** per booking (flights, hotels, activities, transportation).
+
+2. Subscription based model
+- **Free**: Basic features (booking flights and hotels only, leaving reviews, ratings, ), ads, destination explore, booking fees or comission
+- **Family Plan (Rs1000/month)**: booking flights, accommodation, and transportation, ads-free, safety conerns, exclusive deals and discounts, tour advisor (charge separately), No booking fees or commission
+- **Premium (Rs1500/month)**: same as “Family Plan” but more features, priority support, offline support,
+---
+
 # Human Resources
 For this project, we are looking for following human resources:
 
@@ -285,15 +296,64 @@ For this project, we are looking for following human resources:
 - Collaborate with the team
 - Make sure you are following Agile principles
 
-## Project Outlines
+6. **Cheif Research Officer (CRO)**
+- Project analysis, understand project (Mangalmaya - Travel World) requirements,
+- Research and analysis about competitors (Airbnb, Booking, Sastotickets, Hopneapl, Tripturbo) such as pricing models, business model, user reviews, features
+- Research trending AI tools, technologies that can contribute in the project
+- Help in monetization strategies with CTO, other board members
+- Conduct surveys with travelers or users
+- Help to Scrum Master for project and feature analysis
+- Participate and help in prototype designing and testing with designer
+- SWOT analysis of the project , and shared with CTO
+- Documentation and reporting daily (summarize what you have done today) to CTO
+- Advise to implement feasible tools and technologies in the project
+- Collaborate with the team
 
-*(Coming soon)*
+--- 
 
+
+## Project Outline
+
+| SN | Date              | Objectives                                                                                                                   |
+|----|-------------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1  | April 5 - 15      | Team formation (Scrum Master, Designer), Project requirements analysis by Scrum Master, user stories, feature prioritization, sprint planning |
+| 2  | April 15 - 25     | Prototyping initial user interfaces for websites, usability testing, surveys and improvements related to UIs                  |
+| 3  | April 25 - May 25 | Start developing both frontend and backend, continuous development, integration, and testing based on sprint backlogs    (Phase 1)     |
+
+**Phase 1**
+
+> **Goal**: Launch core booking and itinerary features with basic personalization.
+
+### **High-Priority Features**
+
+1. **Unified Booking Engine**
+    - Integrate flight, hotel, and activity free APIs (Skyscanner, Booking.com) for now only.
+    - Bundled deals ("Flight + Hotel" discounts on special occasion).
+      
+2. **User Profiles & Preferences**
+    - Sign-up/login (Google, Facebook, email).
+    - Basic preference filters (budget, travel dates, interests, places).
+    - Settings (change credentials, read previous booked details)
+
+3. **Offline Access**
+    - Download confirmations (PDF/e-tickets only).
+    - Cached search results.
+      
+4. **Basic Real-Time Alerts**
+    - Flight status updates (via airline APIs).
+    - Email and SMS notifications.
+      
+5. Explore places, activities
+    - Manually update place information by role “Content Writier”
+    - Explore destinations by searching
+    - Able to read/create reviews, ratings
+    
+***NOTE: Phase 1 should be achieved before June. Phase 2 will be available publicly very soon.*** 
 
 ## Team
 
-1. CTO (Sanjiv Shrestha)
-2. CRO 
+1. Sanjiv Shrestha (CTO)
+2. Rohit Jha (CRO) 
 3. Scrum Master
 4. UI/UX Designer
 5. Frontend Developer
