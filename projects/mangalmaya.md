@@ -27,10 +27,130 @@ Technology Used :
 ------------
 Reactjs, React Native, MySQL
 
-Reference Startup but we built our system on top this system:
+Some reference startup but we built our system on top this system:
 ------------
-https://www.thehosteller.com/
+https://www.thehosteller.com/ <br>
 https://www.zostel.com/
+
+Investment Proposal: Mangalmaya – Comfort for Travelers & Backpackers
+------------
+
+Executive Summary
+------------
+We are travel-focused franchise and merchandise brand designed to elevate the journey for both casual travelers and seasoned backpackers. Our mission is to deliver practical comfort, high-quality gear, and a touch of luxury to people on the move—no matter where the road takes them.
+
+With a strong identity rooted in mobility, utility, and relaxation, we’re creating a lifestyle brand for those who live to explore, wander, and discover—comfortably.
+
+The Concept: A Traveler’s Comfort Hub
+We merge thoughtfully curated merchandise with a travel-centered franchise experience. Our compact retail hubs and mobile outlets offer an essential range of products for travelers and backpackers, from airport lounges to hostel-adjacent shops, adventure tour stops, and transit stations.
+
+What We Offer
+------------
+Travel & Backpacker Essentials:
+Lightweight, multi-use gear such as:
+
+Ergonomic travel pillows & sleep kits
+
+Durable backpacks and packing cubes
+
+Travel-sized hygiene & wellness kits
+
+UV-blocking hoodies, breathable apparel
+
+Portable tech (chargers, power banks, GPS tags)
+
+Eco-friendly gear (collapsible bottles, bamboo cutlery)
+
+Franchise Spaces:
+Cozy, functional retail spots in:
+
+Airports, train stations, and bus terminals
+
+Hostel hubs & tourist hotspots
+
+Pop-ups near popular hiking and camping areas
+
+Brand Experience:
+A minimalist, clean, adventure-inspired identity with a "rest stop for the soul" feel—appealing to digital nomads, young explorers, and practical wanderers.
+
+Why Invest in Mangalmaya?
+------------
+Fast-Growing Travel Segments: The global backpacker market alone is worth billions and expanding yearly.
+
+High Demand for Functional Comfort: Travelers want more than just souvenirs—they want solutions.
+
+Strong Brand Potential: A bold, recognizable look with values rooted in sustainability, freedom, and wellness.
+
+Multiple Revenue Channels:
+
+Place Stay sales
+
+Online shop & subscription boxes
+
+Franchise fees and royalties
+
+Partnerships with tour operators, hostels, homes and travel companies
+
+📊 Financial Overview (Projections)
+----------
+
+Initial Franchise Investment:
+💰 $10,000 – $20,000 per location
+(Includes setup, inventory, branding, basic staff training & fixtures)
+
+Product Gross Margin:
+📈 60% – 75% on average
+(High margin due to travel accessories, branded gear, and wellness kits)
+
+Break-even Point:
+📆 8 – 14 months
+(Depending on location traffic and initial marketing investment)
+
+Monthly Revenue Potential:
+🏪 Location:
+$1,000 – $10,000 per month
+(Backpacker hubs tend to range on the lower end, while airports & major city travel stations trend higher)
+
+💻 Online Store:
+$5,00 – $1,000 per month (within first year)
+
+Steady growth from SEO, affiliate marketing, and travel partnerships
+
+Subscription boxes and bundles can push this higher
+
+Target ROI:
+🔄 50% – 10% within 18 – 24 months
+
+These projections assume:
+
+30–40% of customers are repeat buyers (especially online)
+
+Strong upsell and cross-sell strategy (bundling products)
+
+Seasonal boosts during summer and holiday travel seasons
+
+Smart placement near hostels, terminals, or tourist areas
+
+Our Ask
+------------
+We are seeking visionary investors and partners who understand the modern traveler’s needs and see the long-term potential in a comfort-centered, mobility-driven franchise.
+
+Your investment will support:
+
+Expansion into key global backpacking destinations
+
+Merchandise development with sustainable, rugged materials
+
+Brand marketing and digital sales platforms
+
+Logistics and inventory systems for global reach
+
+Let’s Redefine the Way People Travel
+------------
+With your support, We will become the go-to name for comfort, quality, and community in the travel world.
+
+Join us—and help travelers and backpackers around the world go further, rest easier, and carry less.
+
 
 Who Are We 
 ------------
