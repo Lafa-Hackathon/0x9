@@ -83,6 +83,8 @@ Who are your main competitors
 
 There are many ERP solutions available in the market, and the main competitors can vary depending on the specific needs and requirements of a business. However, some of the most well-known and widely used ERP solutions include:
 
+Odoo - https://www.odoo.com/
+
 MargERP 9+ GST Biling to Filing - marg.webologicsolutions.com
 
 Alignbook - alignbooks.com
@@ -104,6 +106,117 @@ What makes your app/product "need to have" versus "nice to have"
 
 Mahima MultiPurpose is a "need to have" solution for businesses aiming to optimize their operations and stay competitive in today's fast-paced market. In a world where efficiency and agility are paramount, our app provides the essential tools for businesses to streamline processes, improve collaboration, and drive growth. Unlike "nice to have" solutions that offer additional features but may not fundamentally transform how businesses operate, Mahima MultiPurpose addresses core operational challenges, making it indispensable for businesses of all sizes.
 
+
+Investment Proposal: Mahima MultiPurpose - One Application for Every Business
+-------------
+
+Mahima MultiPurpose is an all-in-one, affordable digital platform designed to simplify and automate business operations across multiple sectors. Whether you're in retail, agriculture, logistics, or services, our unified application provides tailored tools to manage and grow your business efficiently—without the high costs or complexity of traditional systems.
+
+Why Invest in Mahima MultiPurpose?
+-------------
+
+🛠️ Universal Utility: A single app serving diverse industries with customizable modules
+
+📉 Cost-Efficient: Eliminates the need for multiple apps and systems
+
+🚀 Scalable & Cloud-Ready: Built for small businesses, yet ready to support enterprises
+
+🌍 High Market Demand: Especially valuable in emerging markets and underserved regions
+
+🔄 Smooth Automation: From billing to inventory to client management—all in one place
+
+📊 Financial Overview (Projections)
+-------------
+
+Year	Projected Revenue	Net Profit	ROI (Est.)
+
+<table class="min-w-full">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Projected Revenue</th>
+      <th>Net Profit</th>
+      <th>ROI (Est.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Y1</td>
+      <td>$5,000</td>
+      <td>$5,000</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Y2</td>
+      <td>$10,000</td>
+      <td>$6,000</td>
+      <td>28%</td>
+    </tr>
+    <tr>
+      <td>Y3</td>
+      <td>$20,000</td>
+      <td>$8,000</td>
+      <td>30%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+Our Ask – Let’s Redefine the Way Businesses Operate
+-------------
+- We are seeking an investment of $500 to:
+- Finalize and launch the MVP (Minimum Viable Product)
+- Expand cloud infrastructure for seamless user experience
+- Develop strategic marketing campaigns
+- Build partnerships with resellers and service providers
+- Hire core team members
+
+Summarized Problems and Solutions
+-------------
+<table class="min-w-full">
+  <thead>
+    <tr>
+      <th>Problem</th>
+      <th>Mahima MultiPurpose Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Businesses use multiple disconnected apps</td>
+      <td>One integrated application for all key operations</td>
+    </tr>
+    <tr>
+      <td>High software costs for small businesses</td>
+      <td>Affordable, subscription-based pricing model</td>
+    </tr>
+    <tr>
+      <td>Lack of automation in rural and growing markets</td>
+      <td>Lightweight, mobile-first automation features</td>
+    </tr>
+    <tr>
+      <td>Limited tech support</td>
+      <td>In-app tutorials + local support partners</td>
+    </tr>
+  </tbody>
+</table>
+
+
+Human Resources Required
+-------------
+To launch and grow Mahima MultiPurpose, we are seeking:
+
+Fullstack Developer (2) – Build and maintain core app features
+
+UI/UX Designer – Ensure intuitive, business-friendly interface
+
+QA Engineer – Testing for performance and reliability
+
+Marketing & Outreach Manager – Build brand awareness and drive adoption
+
+Business Development Lead – B2B deals, partnership expansion
+
+Customer Support Agents (2) – For onboarding and post-sales help
 
 
 Here is our support url
