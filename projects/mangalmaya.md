@@ -94,6 +94,8 @@ Partnerships with tour operators, hostels, homes and travel companies
 📊 Financial Overview (Projections)
 ----------
 
+<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/raw/main/projects/assets/startup-funding.jpeg" alt="startupfunding">
+
 Initial Franchise Investment:
 💰 $10,000 – $20,000 per location
 (Includes setup, inventory, branding, basic staff training & fixtures)
@@ -317,8 +319,8 @@ What will you learn
 
 2. Subscription based model
 - **Free**: Basic features (booking flights and hotels only, leaving reviews, ratings, ), ads, destination explore, booking fees or comission
-- **Family Plan (Rs1000/month)**: booking flights, accommodation, and transportation, ads-free, safety conerns, exclusive deals and discounts, tour advisor (charge separately), No booking fees or commission
-- **Premium (Rs1500/month)**: same as “Family Plan” but more features, priority support, offline support,
+- **Family Plan ( $10/month)**: booking flights, accommodation, and transportation, ads-free, safety conerns, exclusive deals and discounts, tour advisor (charge separately), No booking fees or commission
+- **Premium ( $20/month)**: same as “Family Plan” but more features, priority support, offline support,
 ---
 
 # Human Resources
