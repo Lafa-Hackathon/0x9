@@ -128,7 +128,7 @@ Why Invest in Mahima MultiPurpose?
 📊 Financial Overview (Projections)
 -------------
 
-<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/raw/main/projects/assets/startup-funding.jpg" alt="startupfunding">
+<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/raw/main/projects/assets/startup-funding.jpeg" alt="startupfunding">
 
 Year	Projected Revenue	Net Profit	ROI (Est.)
 
