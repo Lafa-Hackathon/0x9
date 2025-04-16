@@ -474,8 +474,8 @@ For this project, we are looking for following human resources:
 
 ## Team
 
-1. Sanjiv Shrestha (CTO)
-2. Rohit Jha (CRO) 
+1. Sanjiv Shrestha (CTO) - https://www.linkedin.com/in/sanjiv-shrestha-632910211/
+2. Rohit Jha (CRO) - https://www.linkedin.com/in/jrohitofficial/
 3. Scrum Master
 4. UI/UX Designer
 5. Frontend Developer
