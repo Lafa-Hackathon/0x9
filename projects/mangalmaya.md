@@ -29,8 +29,11 @@ Reactjs, React Native, MySQL
 
 Some reference startup but we built our system on top this system:
 ------------
-https://www.thehosteller.com/ <br>
-https://www.zostel.com/
+1. [The Hosteller](https://www.thehosteller.com/)
+2. [Zostel](https://www.zostel.com/)
+3. [Sasto Tickets](https://sastotickets.com/)
+4. [Hopnepal](https://www.hopnepal.com/)
+5. [Tripturbo](https://tripturbo.com/)
 
 Investment Proposal: Mangalmaya – Comfort for Travelers & Backpackers
 ------------
@@ -330,9 +333,9 @@ For this project, we are looking for following human resources:
 | SN  | Role                                      | Quantity | Status        |
 |-----|-------------------------------------------|----------|---------------|
 | 1   | **Scrum Master**                          | 1        | fulfilled ✔️        |
-| 2   | **UI/UX Designer**                        | 1        | hiring        |
-| 3   | **Frontend Developer (React/Next.js)**    | 1        | hiring        |
-| 4   | **Backend Developer (Node.js)**           | 1        | hiring        |
+| 2   | **UI/UX Designer**                        | 1        | fulfilled ✔️        |
+| 3   | **Frontend Developer (React/Next.js)**    | 1        | fulfilled ✔️        |
+| 4   | **Backend Developer (Node.js)**           | 1        | fulfilled ✔️        |
 | 5   | **Mobile App Developer (Flutter/React Native)** | 1    | hiring (Next month) |
 
 #### **Roles and Responsibilities**
@@ -474,10 +477,10 @@ For this project, we are looking for following human resources:
 
 ## Team
 
-1. Sanjiv Shrestha (CTO) - https://www.linkedin.com/in/sanjiv-shrestha-632910211/
-2. Rohit Jha (CRO) - https://www.linkedin.com/in/jrohitofficial/
-3. Scrum Master
-4. UI/UX Designer
-5. Frontend Developer
-6. Backend Developer
+1. [Sanjiv Shrestha (CTO)](https://www.linkedin.com/in/sanjiv-shrestha-632910211/)
+2. [Rohit Jha (CRO)](https://www.linkedin.com/in/jrohitofficial/)
+3. [Alok Pokhrel (Scrum Master)](https://www.linkedin.com/in/alok-pokhrel-88b51a35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+4. [Rahul Shakya (UI/UX Designer)]()
+5. [Dipak Sinha (Frontend Developer)](https://www.linkedin.com/in/dipaksinha1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+6. [Samrat Subedi (Backend Developer)](https://www.linkedin.com/in/samrat-subedi-7a69542a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 7. Mobile App Developer
