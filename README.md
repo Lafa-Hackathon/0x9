@@ -1,4 +1,4 @@
-<p align="center">### Hi there 👋</p>
+<p align="center">Hi there 👋</p>
 
 <p align="center">We're GeometryCraft Community </p>
 
