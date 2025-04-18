@@ -8,7 +8,7 @@
 
 <p align="center">A curated trove of inspiring lists, practical manuals, cheatsheets, online tools, travel hacks, one-liners, epic blogs, creative businesses, and wisdom for the road. But this isn’t just about information — it’s about connection.</p>
 
-<p align="center">We're a community of mountain lovers, digital nomads, culture seekers, and curious souls drawn to the heart of the Himalayas — Mountain Nepalese at our core. Travelers come for the adventure, and many stay for months, years, or even a lifetime, drawn in by the rich culture, meaningful relationships, and a place that feels like home.</p>
+<p align="center">We're a community of mountain lovers, digital nomads, culture seekers, and curious souls drawn to the heart of the Himalayas — Mountain at our core. Travelers come for the adventure, and many stay for months, years, or even a lifetime, drawn in by the rich culture, meaningful relationships, and a place that feels like home.</p>
 
 <p align="center">Whether you're a solo wanderer searching for your tribe, a storyteller, a learner, a teacher — or just someone who wants to be — we’re here. This is your space to grow, share, explore, and belong.</p>
 
