@@ -1,6 +1,6 @@
-### Hi there 👋
+<p align="center">### Hi there 👋</p>
 
-We're GeometryCraft Community - Full Stack Enthusiast - A Traveller - Nomad Digital
+<p align="center">We're GeometryCraft Community </p>
 
 <p align="center"><i> Knowledge is powerful, be careful how you use it!</i›"</p>
 
