@@ -36,9 +36,6 @@ Bot acts as an all-in-one AI assistant that:
 
 ## Who Are Your Main Competitors
 - **Smart Home**:
-  - Google Home
-  - Amazon Alexa
-  - Apple HomeKit
   
 - **Financial AI & Trading Bots**:
   - Wealthfront (Automated investing)
