@@ -50,8 +50,8 @@ Sponsoring is an act of giving in a different fashion. 🌱
 You can support us using any of the methods below:
 <br>
 
-<a href="https://ssomai.com.np/support-us" target="_blank" rel="noopener">
- <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSOMAI Collective Hub
+<a href="https://somai.com.np/support-us" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SOMAI Collective Hub
 </a>
 <br><br>
 <a href="https://paypal.me/surensomai" target="_blank" rel="noopener">
@@ -63,8 +63,8 @@ You can support us using any of the methods below:
 
 🤝 Meet Our Collaborative Partners:
 
-Hello Business!(hbs.com.np) <br>
-SSOMAI - Open Collective Hub(ssomai.com.np) <br>
+Hello Business!(somai.com.np) <br>
+SAS 2 SALES - Open Collective Hub(sastosales.com.np) <br>
 Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives (mahimamultipurpose.com.np) <br>
 KripAI Tech (Kripai.com)
