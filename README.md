@@ -64,10 +64,10 @@ You can support us using any of the methods below:
 🤝 Meet Our Collaborative Partners:
 
 Hello Business!(somai.com.np) <br>
-SAS 2 SALES - Open Collective Hub(sastosales.com.np) <br>
+SAS 2 SALES - Open Collective Hub(sastosales.com) <br>
 Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives (mahimamultipurpose.com.np) <br>
-KripAI Tech (Kripai.com)
+KripAI Tech (https://kripaitech.com.np)
 
 🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to hello@ssomai.com.np and take the first step towards joining our innovative community.
 
@@ -77,7 +77,7 @@ KripAI Tech (Kripai.com)
 
 ### Internship Program For Non-Scholarship Candidate :
 
-[Apply Now](https://support.mahimamultipurpose.com.np/recruitment/recruitment_portal)
+[Apply Now](https://forms.gle/vuunAGeKMmz933B19)
 
 ### Project Maintainers
 
