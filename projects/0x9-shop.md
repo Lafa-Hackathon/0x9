@@ -19,7 +19,6 @@ Wordpress, React Native
 We are a next-generation multipurpose eCommerce platform combining:
 
 Affordable global shopping
-Local seller marketplace
 Mobile-first experience (Expo app)
 Content + community-driven commerce
 
@@ -36,7 +35,6 @@ Local (UK & similar markets):
 Lack of trust in online shopping
 Payment limitations
 Poor logistics tracking
-Fragmented seller ecosystem
 
 🛍️ 3. What Problem Our eCommerce Store Solves
 
@@ -48,7 +46,6 @@ Accessibility
 Mobile-first app (Expo-based)
 Easy UI for all users
 Trust & Convenience
-Verified sellers
 COD + digital payments
 Real-time tracking
 
@@ -72,10 +69,8 @@ Sastodeal
 
 🚀 6. How We Are Different
 
-Feature	Competitors	Our Platform
 Pricing	Medium	Low (direct sourcing)
 Mobile UX	Good	Optimized for low-data users
-Local sellers	Limited	Strong focus
 Expo features	❌	✅ (virtual booths, events)
 Community	Weak	Strong
 
@@ -87,7 +82,7 @@ Affordable products → essential
 Mobile-first → accessible
 Marketplace + expo → business ecosystem
 
-💡 Users don’t just shop → they engage, explore, and sell
+💡 Users don’t just shop → they engage, explore, and buy
 
 📚 8. What Will You Learn (as a Team/Product)
 
@@ -136,7 +131,6 @@ Logistics partnerships
 Problem	Solution
 Expensive products	Direct sourcing
 Poor UX	Mobile-first Expo app
-Trust issues	Verified sellers + COD
 Limited variety	Global + local mix
 
 👨‍💻 13. Human Resources (Team Structure)
