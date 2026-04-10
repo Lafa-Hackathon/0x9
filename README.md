@@ -51,7 +51,7 @@ You can support us using any of the methods below:
 <br>
 
 <a href="https://somai.com.np/support-us" target="_blank" rel="noopener">
- <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SOMAI Collective Hub
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSOMAI Collective Hub
 </a>
 <br><br>
 <a href="https://paypal.me/surensomai" target="_blank" rel="noopener">
@@ -67,9 +67,9 @@ Hello Business!(somai.com.np) <br>
 SAS 2 SALES - Open Collective Hub(sastosales.com) <br>
 Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives (mahimamultipurpose.com.np) <br>
-KripAI Tech (https://kripaitech.com.np)
+KripAI Tech (kripaitech.com.np)
 
-🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to hello@ssomai.com.np and take the first step towards joining our innovative community.
+🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to hello@somai.com.np and take the first step towards joining our innovative community.
 
 🔍 We’re Looking For Leaders Like You! Don’t miss this chance to enhance your skills and grow with a vibrant team.
 
