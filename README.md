@@ -50,8 +50,8 @@ Sponsoring is an act of giving in a different fashion. 🌱
 You can support us using any of the methods below:
 <br>
 
-<a href="https://somai.com.np/support-us" target="_blank" rel="noopener">
- <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSOMAI Collective Hub
+<a href="https://somai.com.np/p/support-us" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSO M AI Collective Hub
 </a>
 <br><br>
 <a href="https://paypal.me/surensomai" target="_blank" rel="noopener">
